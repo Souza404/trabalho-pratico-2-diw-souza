@@ -1,0 +1,106 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #b973ff;
+}
+
+.card {
+  height: 750px;
+}
+
+.product-card-image {
+  min-height: 140px; 
+}
+
+.fundo {
+  background-color: white;
+  border-radius: 6px;
+}
+
+.carousel {
+  margin-top: 10px;
+}
+
+.carousel-image{
+  border-radius: 12px;
+}
+
+.menu {
+  text-decoration: none;
+  color: black;
+}
+
+.logo:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  transition: 1.0;
+}
+
+.favoritos {
+  max-height: 50px; 
+  max-width: 50px;
+  margin-top: 10px; 
+  margin-right: 100px;
+}
+
+.offer {
+  margin-top: 1rem;
+}
+
+.carousel-image {
+  height: 400px;
+  object-fit: cover;
+}
+
+.product-card-image {
+  height: 150px; 
+  max-height: 300px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.product-card img {
+  max-height: 100px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
+}
+
+.cart-icon {
+  height: 28px;
+}
+
+.card-img-top {
+  height: 280px;
+}
+
+.cc-visa {
+  height: 2.5rem;
+  width: 4.375rem;
+}
+
+.cc-master {
+  height: 2.5rem;
+  width: 3.75rem;
+  margin-left: 0.9rem;
+}
+
+.cc-paypal {
+  height: 3.75rem;
+  width: 3.5rem;
+  margin-left: 0.9rem;
+}
+
+.newsletter {
+  margin-top: 1.5rem;
+}
+
+.social-media {
+  margin-top: 8px;
+  margin-right: 20px;
+  max-width: 10%;
+}
+

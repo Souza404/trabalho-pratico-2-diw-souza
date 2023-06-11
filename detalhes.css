@@ -1,0 +1,29 @@
+.container {
+    margin-top: 4rem;
+}
+
+body{
+    background-color: #b973ff;  
+}
+
+#product-image-container {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+}
+#product-image {
+    max-width: 100%;
+    
+}
+#product-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+#product-description {
+    margin-bottom: 1rem;
+}
+#product-price {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
